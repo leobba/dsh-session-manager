@@ -1,3 +1,5 @@
+> **English** | [简体中文](README.zh.md)
+
 # dsh-session-manager
 
 A DeepSeek Harness (dsh) plugin that imports and manages agent sessions from **pi**, **opencode**, **codex**, and **claude-code**.

@@ -1,3 +1,5 @@
+> [English](README.md) | **简体中文**
+
 # dsh-session-manager
 
 一个 DeepSeek Harness（dsh）插件，用于导入和管理 **pi / opencode / codex / claude-code** 的 agent 会话。
