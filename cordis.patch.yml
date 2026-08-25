@@ -1,0 +1,6 @@
+# dsh-session-manager — the bundle layer applied when a profile lists this package.
+# Insert the plugin rows: slash commands, settings sync page, and client bundles.
+# Disable the migration prompt with: config: { offerOnStart: false }
+- insert:
+    - id: dsh-session-manager
+      name: dsh-session-manager
